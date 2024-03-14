@@ -1,11 +1,17 @@
-# Steam Achievement Manager Enhanced
+# Steam Achievement Manager Enhanced (SAMe)
+## Introduction
+Welcome to the official repository for Steam Achievement Manager Enhanced (SAMe), a sophisticated evolution of the original Steam Achievement Manager (SAM). The original SAM was first released in 2008, with its last significant update in 2011 and a subsequent hotfix in 2013. This repository is dedicated to the continued development and enhancement of SAM, offering a more feature-rich and user-friendly experience for managing Steam achievements.
 
-This is the code for SAM, originally released in 2008, last major release in 2011, and last updated in 2013 (a hotfix).
+## Features
+Steam Achievement Manager Enhanced allows users to take control of their Steam achievements in the following ways:
 
-This repos is gonna be a custom made program called: "Steam Achievement Manager Enhanced"
+Add Achievements: Easily unlock any achievement for any game on your Steam account.
+Remove Achievements: Revoke any previously unlocked achievements, allowing you to customize your gaming profile exactly as you wish.
+Manage Achievements Across Multiple Games: SAMe provides a user-friendly interface to manage achievements across various games within a single session.
+This tool is perfect for gamers looking to have more control over their Steam achievements, whether for correcting accidental unlocks or for achieving 100% completion status in their favorite games.
 
-[Download latest release](https://github.com/Mailootje/SteamAchievementManagerEnhanced/releases/latest).
+## Latest Release
+To download the latest version of Steam Achievement Manager Enhanced, please visit our Releases page.
 
 ## Attribution
-
-Most (if not all) icons are from the [Fugue Icons](http://p.yusukekamiyamane.com/) set.
+We extend our gratitude to the creators of the [Fugue Icons](http://p.yusukekamiyamane.com/) set, from which we have sourced most, if not all, of the icons utilized in this program.
