@@ -9,7 +9,7 @@
 private/
 upload/
 bin/
-.github/
+.github/workflows/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
