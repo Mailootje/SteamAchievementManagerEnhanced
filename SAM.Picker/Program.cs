@@ -30,7 +30,7 @@ namespace SAM.Picker
             // Start Steam if it's not running
             if (!isSteamRunning)
             {
-                ShowTemporaryMessageBox("Starting Steam, please wait...", "Starting Steam", 5000);
+                // ShowTemporaryMessageBox("Starting Steam, please wait...", "Starting Steam", 5000);
 
                 try
                 {
@@ -41,7 +41,9 @@ namespace SAM.Picker
                         WindowStyle = ProcessWindowStyle.Minimized
                     };
                     Process.Start(psi);
-                    System.Threading.Thread.Sleep(5000);
+                    ShowTemporaryMessageBox("Starting Steam, please wait...", "Starting Steam", 5000);
+                    // System.Threading.Thread.Sleep(5000);
+
                 }
                 catch (Exception ex)
                 {
