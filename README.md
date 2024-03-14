@@ -8,6 +8,7 @@ Steam Achievement Manager Enhanced allows users to take control of their Steam a
 - Add Achievements: Easily unlock any achievement for any game on your Steam account.
 - Remove Achievements: Revoke any previously unlocked achievements, allowing you to customize your gaming profile exactly as you wish.
 - Manage Achievements Across Multiple Games: SAMe provides a user-friendly interface to manage achievements across various games within a single session.
+
 This tool is perfect for gamers looking to have more control over their Steam achievements, whether for correcting accidental unlocks or for achieving 100% completion status in their favorite games.
 
 ## Latest Release
