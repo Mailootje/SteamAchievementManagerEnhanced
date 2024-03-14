@@ -11,7 +11,7 @@ Manage Achievements Across Multiple Games: SAMe provides a user-friendly interfa
 This tool is perfect for gamers looking to have more control over their Steam achievements, whether for correcting accidental unlocks or for achieving 100% completion status in their favorite games.
 
 ## Latest Release
-To download the latest version of Steam Achievement Manager Enhanced, please visit our [Releases page]([http://p.yusukekamiyamane.com/](https://github.com/Mailootje/SteamAchievementManagerEnhanced/releases/latest).
+To download the latest version of Steam Achievement Manager Enhanced, please visit our [Releases page](https://github.com/Mailootje/SteamAchievementManagerEnhanced/releases/latest).
 
 ## Attribution
 We extend our gratitude to the creators of the [Fugue Icons](http://p.yusukekamiyamane.com/) set, from which we have sourced most, if not all, of the icons utilized in this program.
