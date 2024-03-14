@@ -1,6 +1,6 @@
 # Steam Achievement Manager Enhanced (SAMe)
 ## Introduction
-Welcome to the official repository for Steam Achievement Manager Enhanced (SAMe), a sophisticated evolution of the original Steam Achievement Manager (SAM). The original SAM was first released in 2008, with its last significant update in 2011 and a subsequent hotfix in 2013. This repository is dedicated to the continued development and enhancement of SAM, offering a more feature-rich and user-friendly experience for managing Steam achievements.
+Welcome to the official repository for Steam Achievement Manager Enhanced (SAMe), a sophisticated evolution of the original [Steam Achievement Manager (SAM)](https://github.com/gibbed/SteamAchievementManager). The original SAM was first released in 2008, with its last significant update in 2011 and a subsequent hotfix in 2013. This repository is dedicated to the continued development and enhancement of SAM, offering a more feature-rich and user-friendly experience for managing Steam achievements.
 
 ## Features
 Steam Achievement Manager Enhanced allows users to take control of their Steam achievements in the following ways:
@@ -15,4 +15,4 @@ This tool is perfect for gamers looking to have more control over their Steam ac
 To download the latest version of Steam Achievement Manager Enhanced, please visit our [Releases page](https://github.com/Mailootje/SteamAchievementManagerEnhanced/releases/latest).
 
 ## Attribution
-We extend our gratitude to the creators of the [Fugue Icons](http://p.yusukekamiyamane.com/) set, from which we have sourced most, if not all, of the icons utilized in this program.
+We extend our gratitude to the creators of the [Fugue Icons](http://p.yusukekamiyamane.com) set, from which we have sourced most, if not all, of the icons utilized in this program.
